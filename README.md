@@ -1,38 +1,93 @@
-# Excel_Projects
-<h1 align="left">Hey 👋 What's up?</h1>
+# ☕ Coffee Sales Excel Dashboard
 
-###
+A professional Excel project analyzing coffee sales data with dynamic dashboards, pivot tables, and visual insights. This project demonstrates strong data analysis and visualization skills using Microsoft Excel.
 
-<p align="left">My name is Muthuswamy and I'm a Data-Scientist from India</p>
+---
 
-###
+## 📘 Project Description
 
-<h2 align="left">About me</h2>
+This project analyzes coffee sales performance across multiple regions and products over a time period. The goal is to gain actionable business insights and present them in an interactive Excel dashboard.
 
-###
+---
 
-<p align="left">✨ Creating bugs since <br>📚 I'm currently learning Data analyst & scientist<br>🎯 Goals: To learn python & deploy own AI models<br>🎲 Fun fact: Self-learner</p>
+## 📁 Files Included
 
-###
+- `Coffee_Sales_Data.xlsx` – Raw dataset (Region, Product, Quantity, Sales, Date)
+- `Coffee_Sales_Dashboard.xlsx` – Cleaned data with pivot tables, charts, and final dashboard
+- `images/dashboard_preview.png` – Preview image of the Excel dashboard
+- `README.md` – Project overview and documentation
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 📊 Key Features
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
+- Cleaned and structured data for analysis
+- Created Pivot Tables to summarize sales by region, product, and time
+- Applied Excel formulas (SUMIFS, IF, VLOOKUP/XLOOKUP)
+- Designed an interactive dashboard using:
+  - Pivot Charts
+  - Slicers
+  - Timelines
+  - Conditional Formatting
+- Visualized KPIs such as:
+  - Total Sales
+  - Top Products
+  - Best Regions
+  - Monthly Trends
 
-###
+---
+
+## 🖼️ Dashboard Preview
+
+<!-- ![Coffee Sales Dashboard](images/dashboard_preview.png) -->
+
+---
+
+## 📈 Sample Insights
+
+- **Total Sales:** ₹5,32,000  
+- **Top Product:** Cappuccino  
+- **Best Region:** South  
+- **Peak Sales Month:** March  
+
+(*Note: Numbers are sample placeholders. Replace with actual results.*)
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel (365 or 2019+)
+- Pivot Tables & Charts
+- Excel Functions (SUMIFS, IF, TEXT, LOOKUPs)
+- Dashboard Design
+- Data Cleaning Techniques
+
+---
+
+## 🚀 Getting Started
+
+1. Download or clone the repository.
+2. Open `Coffee_Sales_Dashboard.xlsx` in Microsoft Excel.
+3. Use slicers and timelines on the Dashboard sheet to explore sales data interactively.
+
+---
+
+## 🎯 Learning Objectives
+
+- Transform raw sales data into meaningful business insights
+- Practice Excel dashboard design and interactivity
+- Showcase professional Excel analysis skills for portfolio or job interviews
+
+---
+
+## 👨‍💻 Author
+
+**Muthuswamy Nadar**   
+🔗 [LinkedIn](https://www.linkedin.com/in/nadarmuthuswamy/)
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please ⭐ the repository to show your support!
+
