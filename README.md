@@ -28,7 +28,8 @@ The goal is to gain actionable insights and present them in an **interactive Exc
   - Monthly Trends  
 
 ### 🖼️ Dashboard Preview
-<!-- ![Coffee Sales Dashboard](/coffeedash.png) -->
+![Coffee Shop Dashboard](coffedash.png)
+
 
 ### 📈 Sample Insights
 - **Total Sales:** ₹5,32,000  
