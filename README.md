@@ -68,7 +68,7 @@ Built as part of an **IIT-based Data Analytics learning project**, this dashboar
 - Insights useful for e-commerce operations and delivery optimization
 
 ### 🖼️ Dashboard Preview
-<!-- ![Blinkit Dashboard](images/blinkit_dashboard_preview.png) -->
+![Blinkit Dashboard](blinkitdash.png)
 
 ### 📈 Sample Insights
 - **Highest Selling Category:** Beverages  
