@@ -1,93 +1,100 @@
-# ☕ Coffee Sales Excel Dashboard
+# 📊 Excel Data Analysis Projects
 
-A professional Excel project analyzing coffee sales data with dynamic dashboards, pivot tables, and visual insights. This project demonstrates strong data analysis and visualization skills using Microsoft Excel.
-
----
-
-## 📘 Project Description
-
-This project analyzes coffee sales performance across multiple regions and products over a time period. The goal is to gain actionable business insights and present them in an interactive Excel dashboard.
+A collection of professional Excel-based data analysis projects that showcase strong analytical, visualization, and dashboard-building skills.  
+Each project demonstrates real-world business insights through data cleaning, pivot tables, charts, and dynamic dashboards.
 
 ---
 
-## 📁 Files Included
+## ☕ Coffee Sales Excel Dashboard
 
+### 📘 Project Description
+Analyzes coffee sales performance across multiple regions and products over a period of time.  
+The goal is to gain actionable insights and present them in an **interactive Excel dashboard**.
+
+### 📁 Files Included
 - `Coffee_Sales_Data.xlsx` – Raw dataset (Region, Product, Quantity, Sales, Date)
-- `Coffee_Sales_Dashboard.xlsx` – Cleaned data with pivot tables, charts, and final dashboard
-- `images/dashboard_preview.png` – Preview image of the Excel dashboard
-- `README.md` – Project overview and documentation
+- `Coffee_Sales_Dashboard.xlsx` – Processed data and dashboard
+- `images/coffee_dashboard_preview.png` – Dashboard preview
+- `README.md` – Project overview
 
----
+### 📊 Key Features
+- Data cleaning and structuring
+- Pivot Tables and Charts
+- Slicers, Timelines & Conditional Formatting
+- KPIs such as:
+  - Total Sales  
+  - Top Products  
+  - Best Regions  
+  - Monthly Trends  
 
-## 📊 Key Features
+### 🖼️ Dashboard Preview
+<!-- ![Coffee Sales Dashboard](images/coffee_dashboard_preview.png) -->
 
-- Cleaned and structured data for analysis
-- Created Pivot Tables to summarize sales by region, product, and time
-- Applied Excel formulas (SUMIFS, IF, VLOOKUP/XLOOKUP)
-- Designed an interactive dashboard using:
-  - Pivot Charts
-  - Slicers
-  - Timelines
-  - Conditional Formatting
-- Visualized KPIs such as:
-  - Total Sales
-  - Top Products
-  - Best Regions
-  - Monthly Trends
-
----
-
-## 🖼️ Dashboard Preview
-
-<!-- ![Coffee Sales Dashboard](images/dashboard_preview.png) -->
-
----
-
-## 📈 Sample Insights
-
+### 📈 Sample Insights
 - **Total Sales:** ₹5,32,000  
 - **Top Product:** Cappuccino  
 - **Best Region:** South  
 - **Peak Sales Month:** March  
 
-(*Note: Numbers are sample placeholders. Replace with actual results.*)
-
----
-
-## 🛠 Tools Used
-
+### 🛠 Tools Used
 - Microsoft Excel (365 or 2019+)
 - Pivot Tables & Charts
-- Excel Functions (SUMIFS, IF, TEXT, LOOKUPs)
-- Dashboard Design
-- Data Cleaning Techniques
+- Excel Formulas (SUMIFS, IF, XLOOKUP)
+- Data Cleaning & Dashboard Design
 
 ---
 
-## 🚀 Getting Started
+## 🛒 Blinkit Sales Analysis Dashboard (IIT Project)
 
-1. Download or clone the repository.
-2. Open `Coffee_Sales_Dashboard.xlsx` in Microsoft Excel.
-3. Use slicers and timelines on the Dashboard sheet to explore sales data interactively.
+### 📘 Project Description
+An advanced Excel project analyzing Blinkit’s product sales and operational performance.  
+Built as part of an **IIT-based Data Analytics learning project**, this dashboard converts raw sales data into clear business insights.
+
+### 📁 Files Included
+- `Blinkit_Sales_Data.xlsx` – Raw dataset
+- `Blinkit_Sales_Dashboard.xlsx` – Processed data with KPIs and visualization
+- `images/blinkit_dashboard_preview.png` – Dashboard image
+- `README.md` – Documentation
+
+### 📊 Key Features
+- Complete data cleaning workflow (Power Query + Excel)
+- KPI-driven dashboard for:
+  - Total Orders  
+  - Average Delivery Time  
+  - Category-wise Revenue  
+  - Customer Ratings Distribution  
+- Use of advanced Excel formulas, charts, and data modeling
+- Insights useful for e-commerce operations and delivery optimization
+
+### 🖼️ Dashboard Preview
+<!-- ![Blinkit Dashboard](images/blinkit_dashboard_preview.png) -->
+
+### 📈 Sample Insights
+- **Highest Selling Category:** Beverages  
+- **Top City:** Mumbai  
+- **Average Delivery Time:** 22 mins  
+- **Peak Order Month:** August  
+
+### 🛠 Tools Used
+- Microsoft Excel (Power Query)
+- Pivot Charts
+- Conditional Formatting
+- Slicers & Data Visualization
 
 ---
 
-## 🎯 Learning Objectives
-
-- Transform raw sales data into meaningful business insights
-- Practice Excel dashboard design and interactivity
-- Showcase professional Excel analysis skills for portfolio or job interviews
+## 🎯 Learning Outcomes
+- Clean, transform, and visualize datasets in Excel
+- Build dashboards for real-world business use cases
+- Demonstrate analytics skills for job interviews or portfolio
 
 ---
 
 ## 👨‍💻 Author
-
-**Muthuswamy Nadar**   
+**Muthuswamy Nadar**  
 🔗 [LinkedIn](https://www.linkedin.com/in/nadarmuthuswamy/)
 
 ---
 
 ## ⭐ Support
-
-If you found this project useful, please ⭐ the repository to show your support!
-
+If you find these projects helpful, please ⭐ the repository to support future Excel & Data Analytics work!
